@@ -60,6 +60,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![s](https://github.com/keyurgohil13/EmployeeCrud-Re.github.io/assets/104744961/21424bcf-141b-442e-b370-8fa43479ae2e)
 
 ### Deployment
 
